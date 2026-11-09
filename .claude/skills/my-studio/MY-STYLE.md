@@ -31,6 +31,20 @@ Plus, when the video fits: V20 step titles, L9 / V23 before-after, M7 colour cir
 
 - Reference measured -19.4 LUFS. Keep the house rule: mix to about -14 LUFS, effects under my voice.
 
+## Approved edits
+
+### The Ronaldo Rule (edit-v001, approved 2026-11-09)
+
+Talking-head selfie in a dark car, 60 s raw → 47 s. What worked:
+
+- **Codes:** H10 hook + sticker · C1 captions with C7 serif keyword · L4 white cards above my head · M6/M1 punch-in cuts (1.0 / 1.12 alternating at sentence starts) · M7 circle wipe · G5-style lift · S2 light SFX.
+- **Palette for this video:** violet #ce44ff (sticker, wipe), plum #a93c9a (card labels, ticks), deep plum #331132 (outlines, borders), white text, lilac #E9B3FF (a lighter shade of #ce44ff) for serif keywords and titles. Lilac keywords need a thick #331132 outline to read over white clothes.
+- **Storyboard first:** I asked for a storyboard before the render; one still per section, then render after "go".
+- **Supplied photos:** a person photo works as a small tilted white polaroid pinned to the card, above my head.
+- **Cuts:** every pause over ~0.35 s, stumbles and repeated words. Hold the last frame ~1.3 s under the closing line.
+- **Pacing:** a new visual at least every ~4 s (shot change or graphic beat).
+- **Comparison story:** the same card design repeated for both halves ("Penalty records" → "Your job search") made the parallel obvious.
+
 ## Never
 
 _Nothing yet._
